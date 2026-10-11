@@ -1,0 +1,6 @@
+{
+  "name": "Tony's Kitchen – คำนวณโสหุ้ย",
+  "description": "ระบบคำนวณสัดส่วนค่าใช้จ่ายโสหุ้ย (% Overhead) ต่อราคาขาย สำหรับร้านอาหารไทย จัดเก็บข้อมูลในเครื่อง ปลอดภัย ใช้งานออฟไลน์ได้ 100%",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
